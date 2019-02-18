@@ -72,4 +72,5 @@ login success
 
 ## Bonus
 
-หากใช้ Hooks จะได้รับคะแนนพิเศษ
+- หากใช้ Hooks จะได้รับคะแนนพิเศษ
+- หากเขียน Unit Test Component จะได้รับคะแนนพิเศษ
