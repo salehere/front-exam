@@ -14,11 +14,13 @@ $ npm install
 
 ![](screenshots/proxumer-login.png)
 
-## Running API Service
+## Running Client
+```
+$ npm run start
+```
 
-```
-$ npm run start:server
-```
+## Client Endpoint
+[URL] http://localhost:8080
 
 ## API Endpoint
 

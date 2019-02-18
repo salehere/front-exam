@@ -5,11 +5,11 @@
   "license": "MIT",
   "author": "Proxumer Frontend Team@Proxumer LTD.",
   "scripts": {
-    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
-    "start:server": "nodemon src/api/index.js"
+    "start": "concurrently --kill-others \"webpack-dev-server --config ./webpack.config.js --mode development\" \"nodemon src/api/index.js\""
   },
   "dependencies": {
     "body-parser": "1.18.3",
+    "concurrently": "^4.1.0",
     "cors": "2.8.5",
     "express": "4.16.4",
     "prop-types": "15.7.2",
