@@ -20,6 +20,15 @@ $ npm install
 $ npm run start:server
 ```
 
+## API Endpoint
+
+[POST] http://localhost:3000/api/v1/login
+
+#### Data Params
+
+- username: [String]
+- password: [String]
+
 ## API Response
 
 empty username and password
