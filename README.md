@@ -54,6 +54,11 @@ login success
 
 - สร้างหน้า เข้าสู่ระบบโดยอิงจากตาม design ที่ให้ไว้ในรูป ดูเพิ่มเติมที่ folder screenshots/
 
+## Username ที่ถุกต้อง
+
+- username: frontend@proxumer.com
+- password: 123456
+
 ## Login Step
 
 - กด Login Button
